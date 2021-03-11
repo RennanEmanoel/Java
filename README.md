@@ -1,4 +1,4 @@
-# Estudos em Java :black_joker:
+# Estudos em Java :coffee:
 
 ##### Autor: Rennan Emanoel
 
